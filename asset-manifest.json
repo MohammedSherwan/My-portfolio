@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/My-portfolio/static/css/main.572bfe56.css",
-    "main.js": "/My-portfolio/static/js/main.32b79104.js",
-    "static/media/image5.jpg": "/My-portfolio/static/media/image5.da109b6528a79fbfac18.jpg",
+    "main.css": "/My-portfolio/static/css/main.0450f8ac.css",
+    "main.js": "/My-portfolio/static/js/main.70ac9593.js",
+    "static/media/image1.jpg": "/My-portfolio/static/media/image1.cce2b3c1240f3cd4cd68.jpg",
     "static/media/image4.jpg": "/My-portfolio/static/media/image4.a1af356878980edd9819.jpg",
-    "static/media/image2.jpg": "/My-portfolio/static/media/image2.b51722100b952bb670f6.jpg",
+    "static/media/muhammed sherwan cv.pdf": "/My-portfolio/static/media/muhammed sherwan cv.c5a1fc72cb5bee1f4885.pdf",
+    "static/media/image12.png": "/My-portfolio/static/media/image12.453638c881c045000127.png",
+    "static/media/image13.png": "/My-portfolio/static/media/image13.d232b569ff6ab8643c38.png",
+    "static/media/image14.png": "/My-portfolio/static/media/image14.eeace04dd963e050768c.png",
+    "static/media/image15.png": "/My-portfolio/static/media/image15.d5aba54327ad30aeb4e0.png",
     "index.html": "/My-portfolio/index.html",
-    "main.572bfe56.css.map": "/My-portfolio/static/css/main.572bfe56.css.map",
-    "main.32b79104.js.map": "/My-portfolio/static/js/main.32b79104.js.map"
+    "main.0450f8ac.css.map": "/My-portfolio/static/css/main.0450f8ac.css.map",
+    "main.70ac9593.js.map": "/My-portfolio/static/js/main.70ac9593.js.map"
   },
   "entrypoints": [
-    "static/css/main.572bfe56.css",
-    "static/js/main.32b79104.js"
+    "static/css/main.0450f8ac.css",
+    "static/js/main.70ac9593.js"
   ]
 }
